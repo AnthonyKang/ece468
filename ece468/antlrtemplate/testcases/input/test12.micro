@@ -1,0 +1,8 @@
+PROGRAM test BEGIN
+
+	FUNCTION INT main() BEGIN 
+	WRITE (a);
+	READ (b);
+	END
+	INT o,p;
+END
